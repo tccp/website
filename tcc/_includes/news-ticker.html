@@ -1,0 +1,8 @@
+  <ul class="post-list owl-carousel news-ticker">
+    {% for post in site.posts %}
+      <li class='item'>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+        <span class="post-meta hidden">{{ post.date | date: "%b %-d, %Y" }} - </span>  {{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>

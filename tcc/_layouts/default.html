@@ -6,13 +6,17 @@
   <body>
 
     {% include header.html %}
+    {% include jumbotron.html %}
+    {% include news-ticker.html %}
 
-    <div class="page-content">
+    
+    <main class="page-content" id='main'>
       <div class="wrapper">
         {{ content }}
       </div>
-    </div>
+    </main>
 
+    {% include scripts.html %}
     {% include footer.html %}
 
   </body>

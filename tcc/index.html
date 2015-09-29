@@ -2,22 +2,30 @@
 layout: default
 ---
 
-<div class="home">
+<div class="home container">
 
-  <h1 class="page-heading">Posts</h1>
+  	<h2> Groups </h2>
+  	<div class="row">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+	{% for group in site.groups %}
+		{% assign loopindex = forloop.index | modulo: 4 %}
+			{% if loopindex == 0 %}
+			<div class="row"></div>
+		{% endif %}
+		<a class="caption slide-panel" href="{{ group.url }}" data-title="{{ group.title }}" data-description="{{group.short_bio}}">
+			<img src="{{group.image}}" alt="{{group.title}}"/>
+		</a>
+	{% endfor %}
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+
+	</div>
+	
+	{% for post in site.posts %}
+      <article>
+      	<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+      	{{ post.content }}
+      </article>
     {% endfor %}
-  </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+	
 </div>
