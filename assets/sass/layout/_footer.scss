@@ -1,0 +1,14 @@
+footer {
+	@extend .text-center;
+	margin-top: 50px; 
+	background-color: $gray-light;
+	height: 6em;
+	padding-top: 2em; 
+	
+	a{
+		transition: transform $trans-cubic-fast;
+		&:hover{
+			transform: scale(1.2);
+		}
+	}
+}

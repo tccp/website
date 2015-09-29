@@ -1,0 +1,34 @@
+h1{
+	@include responsive-auto('font-size', 36px);
+}
+
+h2{
+	@include responsive-auto('font-size', 28px);
+}
+
+h3{
+	@include responsive-auto('font-size', 26px);
+}
+
+h4{
+	@include responsive-auto('font-size', 24px);
+}
+
+p{
+	// @include responsive-auto('font-size', 16px);
+}
+
+a{
+	transition: color $trans-cubic-fast;
+	font-weight: bold; 
+	&:hover{
+		text-decoration: none;
+	}
+}
+
+h2{
+	transition: transform $trans-cubic-fast;
+	&:hover{
+		transform: scale(1.1);
+	}
+}

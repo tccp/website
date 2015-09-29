@@ -1,0 +1,21 @@
+.news-ticker{
+	@extend .list-unstyled, .text-center;
+
+	li{
+		@include responsive-auto('font-size', 18px);
+
+		&:hover{
+			transform: scale(1.2);
+			transition: transform $trans-cubic-fast; 
+		}
+
+		span{
+			// color: white;
+		}
+	}
+	
+
+
+
+
+}

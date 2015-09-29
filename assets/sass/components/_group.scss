@@ -1,0 +1,13 @@
+.group{
+	.profile-image{
+		@extend .img-responsive, .pull-left; 
+		padding: 1em;
+
+		@include xs_down(display, block);
+	}
+
+	.content{
+		padding-top: 1em; 
+		padding-left: 1em;
+	}
+}
