@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 29 Sep 2015 01:33:49 -0400</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2015 01:33:49 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>The Pittsburgh Quantum Institute (PQI)</title>
+        <description>&lt;p&gt;The Pittsburgh Quantum Institute was established in 2012 to help unify and promote research in quantum science and engineering in the Pittsburgh area. PQI members have faculty appointments from Carnegie Mellon University, Duquesne University and the University of Pittsburgh in physics, chemistry and engineering disciplines.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Sep 2015 17:12:52 -0400</pubDate>
+        <link>http://yourdomain.com/pittsburgh/quantum/institute/pqi/2015/09/28/pittsburgh-quantum-institute-pqi.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/pittsburgh/quantum/institute/pqi/2015/09/28/pittsburgh-quantum-institute-pqi.html</guid>
+        
+        
+        <category>pittsburgh</category>
+        
+        <category>quantum</category>
+        
+        <category>institute</category>
+        
+        <category>pqi</category>
+        
+      </item>
+    
+      <item>
+        <title>Computational Resources</title>
+        <description>&lt;p&gt;The University of Pittsburgh’s Center for Simulation and Modeling (SaM) houses an ~7500 CPU core cluster with high-speed Infiniband connectivity for running demanding highly parallel calculations.  Several of the nodes have GPU co-processors.  SaM also has a team of Ph.D.-level consultants who assist researchers with improving performance of their codes and teach workshops on various aspects of scientific computing. Pittsburgh also hosts the Pittsburgh Supercomputing Center, an NSF-funded National Center.  PSC holds multiple workshops on various aspects of computing each year.  These have proven quite valuable to our students.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Sep 2015 17:12:52 -0400</pubDate>
+        <link>http://yourdomain.com/computational/resources/2015/09/28/computational-resources.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/computational/resources/2015/09/28/computational-resources.html</guid>
+        
+        
+        <category>computational</category>
+        
+        <category>resources</category>
+        
+      </item>
+    
+      <item>
+        <title>Collaborative Environment</title>
+        <description>&lt;p&gt;The Chemical and Petroleum Engineering Department has five groups (Anna Balazs, John Keith, Yanni Mpourmpakis, Karl Johnson, and Chris Wilmer) engaged in computational chemistry research and the Department of Computational and Systems Biology in the Medical School also has groups (Ivet Bahar, Dan Zuckerman) part of whose research has a significant computational chemistry component.&lt;/p&gt;
+
+&lt;p&gt;There are also several Theoretical &amp;amp; Computational Chemistry groups at Pittsburgh’s two other major universities – CMU and Duquesne University – as well as at the DOE National Energy Technology Laboratory (NETL) just outside the city.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;David Wales, Cambridge University (2007)&lt;/li&gt;
+  &lt;li&gt;Kieron Burke, University of California, Irvine (2010)&lt;/li&gt;
+  &lt;li&gt;Gerhard Hummer, NIH (2010&lt;/li&gt;
+  &lt;li&gt;Fred Manby, University of Bristol (2013)&lt;/li&gt;
+  &lt;li&gt;Joost VandeVondele, University of Zurich (2015)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Joint TCC seminars are held in the Physical Chemistry division, in Chemical Engineering, the Pittsburgh Quantum Institute, and the Biophysics Theory Club. Lectures in Scientific Computing, Numerical Methods, Quantum Mechanics, Statistical Mechanics, Biophysics, Advanced Methods of Theoretical and Computational Chemistry, and many more, are offered to all theory &amp;amp; computation students across campus.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Sep 2015 17:12:52 -0400</pubDate>
+        <link>http://yourdomain.com/collaborative/chemistry/2015/09/28/collaborative-environment.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/collaborative/chemistry/2015/09/28/collaborative-environment.html</guid>
+        
+        
+        <category>collaborative</category>
+        
+        <category>chemistry</category>
+        
+      </item>
+    
+      <item>
+        <title>2016 Midwest Theoretical Chemistry Conference to be Held at Pitt</title>
+        <description>&lt;p&gt;2016 Midwest Theoretical Chemistry Conference to be Held at Pitt&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Sep 2015 17:12:52 -0400</pubDate>
+        <link>http://yourdomain.com/event/2015/09/28/2016-midwest-theoretical-chemistry-conference.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/event/2015/09/28/2016-midwest-theoretical-chemistry-conference.html</guid>
+        
+        
+        <category>event</category>
+        
+      </item>
+    
+  </channel>
+</rss>
