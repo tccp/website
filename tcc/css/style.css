@@ -8346,6 +8346,9 @@ header .navbar {
     .jumbotron p {
       font-size: 16px; } }
 
+.jumbotron img {
+  max-height: 250px; }
+
 .news-ticker li {
   font-size: 14.4px;
   /* Small devices (tablets, 768px and up) */

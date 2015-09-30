@@ -7,4 +7,7 @@
 		@include responsive-auto('font-size', 16px);
 		font-weight: 300; 
 	}
+	img{
+		max-height: 250px;
+	}
 }
