@@ -12,7 +12,7 @@ layout: default
 			{% if loopindex == 0 %}
 			<div class="row"></div>
 		{% endif %}
-		<a class="caption slide-panel" href="{{ group.url }}" data-title="{{ group.title }}" data-description="{{group.short_bio}}">
+		<a class="caption slide-panel" href="{{ group.link }}" data-title="{{ group.title }}" data-description="{{group.short_bio}}">
 			<img src="{{group.image}}" alt="{{group.title}}"/>
 		</a>
 	{% endfor %}

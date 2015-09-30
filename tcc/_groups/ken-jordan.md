@@ -4,6 +4,7 @@ title:  "Ken Jordan"
 image:   "http://placehold.it/400x400"
 categories: groups professor
 short_bio: "accommodation of protons and electrons in water; quantum Monte Carlo simulations)"
+link: "http://pitt.edu/~kjtheory/"
 research-areas: 
 - name: "Some Research Area"
   link: "http://google.com"

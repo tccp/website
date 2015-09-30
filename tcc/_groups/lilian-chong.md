@@ -4,6 +4,7 @@ title:  "Lillian Chong"
 image:   "http://placehold.it/400x400"
 categories: groups professor
 short_bio: "Protein folding; treating rare event processes"
+link: "http://www.pitt.edu/~ltchong/"
 research-areas: 
 - name: "Some Research Area"
   link: "http://google.com"

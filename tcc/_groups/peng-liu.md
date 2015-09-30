@@ -4,6 +4,7 @@ title:  "Peng Liu"
 image:   "http://placehold.it/400x400"
 categories: groups professor
 short_bio: "Organic reaction mechanisms"
+link: "http://www.pitt.edu/~pengliu/"
 research-areas: 
 - name: "Some Research Area"
   link: "http://google.com"

@@ -4,6 +4,7 @@ title:  "Rob Coalson "
 image:   "http://placehold.it/400x400"
 categories: groups professor
 short_bio: "Ion transport in biological ion channels"
+link: "http://www.pitt.edu/~coalson/"
 research-areas: 
 - name: "Some Research Area"
   link: "http://google.com"

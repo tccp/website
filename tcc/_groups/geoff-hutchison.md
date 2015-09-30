@@ -4,6 +4,7 @@ title:  "Geoff Hutchison"
 image:   "http://placehold.it/400x400"
 categories: groups professor
 short_bio: "Electronic materials; cheminformatics"
+link: "http://hutchison.chem.pitt.edu/"
 research-areas: 
 - name: "Some Research Area"
   link: "http://google.com"
