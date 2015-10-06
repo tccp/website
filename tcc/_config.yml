@@ -17,4 +17,7 @@ collections:
  groups:
   output: true
   permalink: /group/:path/
+ news:
+  output: true
+  permalink: /news/:path/
 

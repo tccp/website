@@ -36,11 +36,12 @@
 	&::before {
 		content: 'Areas of Research: ' attr(data-description) '... Learn More';
 		top: 50%;
-		background: $brand-primary;
+		background: $pitt-gold;
 		font-size: 14px;
 		padding: 20px;
 		transform: translateY(100%);
 		font-weight: 400;
+		color: $brand-primary; 
 	}
 	&:hover {
 		&::after, &::before {

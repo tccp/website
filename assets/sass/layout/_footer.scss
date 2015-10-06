@@ -8,8 +8,9 @@ footer {
 	
 	a{
 		transition: transform $trans-cubic-fast;
+		color: white; 
 		&:hover{
-			transform: scale(1.2);
+			color: white; 
 		}
 	}
 }
