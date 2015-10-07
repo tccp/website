@@ -1,7 +1,7 @@
 ---
 layout: group
 title:  "Daniel Lambrecht"
-image:   "http://placehold.it/400x400"
+image:   "/images/Lambrecht.png"
 categories: groups professor
 short_bio: "reduced-scaling approaches and functional materials"
 link: "http://lambrecht.chem.pitt.edu/"

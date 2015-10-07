@@ -1,7 +1,7 @@
 ---
 layout: group
 title:  "Geoff Hutchison"
-image:   "http://placehold.it/400x400"
+image:   "/images/hutchison.jpg"
 categories: groups professor
 short_bio: "Electronic materials; cheminformatics"
 link: "http://hutchison.chem.pitt.edu/"

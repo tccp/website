@@ -1,7 +1,7 @@
 ---
 layout: group
 title:  "Peng Liu"
-image:   "http://placehold.it/400x400"
+image:   "/images/Liu.jpg"
 categories: groups professor
 short_bio: "Organic reaction mechanisms"
 link: "http://www.pitt.edu/~pengliu/"
