@@ -1,5 +1,6 @@
 .jumbotron{
 	color: white;
+	background: $brand-primary;
 	h1{
 		@include responsive-auto('font-size', 30px);
 		font-weight: 300;

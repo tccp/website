@@ -27,7 +27,7 @@
 	&::after {
 		content: attr(data-title);
 		top: 0;
-		background: $gray-light;
+		background: $brand-primary;
 		font-size: 40px;
 		font-weight: 300;
 		padding: 30px;
