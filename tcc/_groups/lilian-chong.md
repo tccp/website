@@ -1,7 +1,7 @@
 ---
 layout: group
 title:  "Lillian Chong"
-image:   "http://placehold.it/400x400"
+image:   "/images/Chong.png"
 categories: groups professor
 short_bio: "Protein folding; treating rare event processes"
 link: "http://www.pitt.edu/~ltchong/"

@@ -8251,10 +8251,6 @@ h2 {
   -webkit-transition: -webkit-transform 300ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
           transition: -webkit-transform 300ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
   transition: transform 300ms cubic-bezier(0.175, 0.885, 0.32, 1.275); }
-  h2:hover {
-    -webkit-transform: scale(1.1);
-                -ms-transform: scale(1.1);
-            transform: scale(1.1); }
 
 footer {
   color: white;
@@ -8311,7 +8307,7 @@ header .navbar {
       .jumbotron p {
         font-size: 16px; } }
   .jumbotron img {
-    max-height: 250px; }
+    max-height: 150px; }
 
 .news-ticker li {
   font-size: 14.4px;

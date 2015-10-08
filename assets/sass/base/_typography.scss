@@ -29,6 +29,6 @@ a{
 h2{
 	transition: transform $trans-cubic-fast;
 	&:hover{
-		transform: scale(1.1);
+		// transform: scale(1.1);
 	}
 }

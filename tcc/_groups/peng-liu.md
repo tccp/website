@@ -1,7 +1,7 @@
 ---
 layout: group
 title:  "Peng Liu"
-image:   "/images/Liu.jpg"
+image:   "/images/Liu.png"
 categories: groups professor
 short_bio: "Organic reaction mechanisms"
 link: "http://www.pitt.edu/~pengliu/"
