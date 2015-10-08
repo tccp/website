@@ -14,7 +14,7 @@ title: TCC | Home
 			<div class="row"></div>
 		{% endif %}
 		<a class="caption slide-panel" href="{{ group.link }}" data-title="{{ group.title }}" data-description="{{group.short_bio}}">
-			<img src="{{group.image}}" alt="{{group.title}}"/>
+			<img src="/~tcp/{{group.image}}" alt="{{group.title}}"/>
 		</a>
 	{% endfor %}
 
@@ -23,7 +23,7 @@ title: TCC | Home
 	
 	{% for post in site.posts %}
       <article>
-      	<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+      	<h2><a href="/~tcp/{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
       	{{ post.content }}
       </article>
     {% endfor %}
