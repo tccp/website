@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
-permalink: /blog/:title/
+permalink: blog/:title/
 
 # Build settings
 markdown: kramdown
@@ -17,8 +17,8 @@ markdown: kramdown
 collections: 
  groups:
   output: true
-  permalink: /group/:path/
+  permalink: group/:path/
  news:
   output: true
-  permalink: /news/:path/
+  permalink: news/:path/
 

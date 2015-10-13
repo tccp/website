@@ -3,7 +3,7 @@ layout: post
 title:  "Midwest Theoretical Chemistry Conference"
 date:   2015-09-28 21:12:52
 categories: collaborative chemistry
-link: /~tcp/mwtcc
+link: mwtcc
 ---
 The Chemical and Petroleum Engineering Department has five groups (Anna Balazs, John Keith, Yanni Mpourmpakis, Karl Johnson, and Chris Wilmer) engaged in computational chemistry research and the Department of Computational and Systems Biology in the Medical School also has groups (Ivet Bahar, Dan Zuckerman) part of whose research has a significant computational chemistry component.
 
