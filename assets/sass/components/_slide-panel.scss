@@ -4,7 +4,7 @@
 	overflow: hidden;
 	@extend .col-sm-4;
 	padding-right: 0;
-	margin-bottom: 10px; 
+	margin-bottom: 10px;
 
 	img {
 		display: block;
@@ -36,15 +36,15 @@
 		//transform: translateY(-100%);
 	}
 	&::before {
-		content: 'Areas of Research: ' attr(data-description) '... Learn More';
+		content: 'Areas of Research: 'attr(data-description) '... Learn More';
 		@include responsive-man(top, 40%, 40%, 40%, 50%);
 		background: $pitt-gold;
-		height: 50%; 
+		height: 50%;
 		font-size: 14px;
 		padding: 20px;
 		transform: translateY(100%);
 		font-weight: 400;
-		color: $brand-primary; 
+		color: $brand-primary;
 	}
 	&:hover {
 		&::before {
@@ -52,4 +52,3 @@
 		}
 	}
 }
-

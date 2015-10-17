@@ -4,10 +4,10 @@
     <title>Your awesome title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/fuck/</link>
-    <atom:link href="http://yourdomain.com/fuck/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Oct 2015 23:09:41 -0400</pubDate>
-    <lastBuildDate>Fri, 16 Oct 2015 23:09:41 -0400</lastBuildDate>
+    <link>https://www.pitt.edu//~tcp//</link>
+    <atom:link href="https://www.pitt.edu//~tcp//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 17 Oct 2015 00:31:36 -0400</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2015 00:31:36 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;p&gt;The Pittsburgh Quantum Institute was established in 2012 to help unify and promote research in quantum science and engineering in the Pittsburgh area. PQI members have faculty appointments from Carnegie Mellon University, Duquesne University and the University of Pittsburgh in physics, chemistry and engineering disciplines.&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Sep 2015 17:12:52 -0400</pubDate>
-        <link>http://yourdomain.com/fuck/blog/pittsburgh-quantum-institute-pqi/</link>
-        <guid isPermaLink="true">http://yourdomain.com/fuck/blog/pittsburgh-quantum-institute-pqi/</guid>
+        <link>https://www.pitt.edu//~tcp//blog/pittsburgh-quantum-institute-pqi/</link>
+        <guid isPermaLink="true">https://www.pitt.edu//~tcp//blog/pittsburgh-quantum-institute-pqi/</guid>
         
         
         <category>pittsburgh</category>
@@ -34,8 +34,8 @@
         <description>&lt;p&gt;The University of Pittsburgh’s Center for Simulation and Modeling (SaM) houses an ~7500 CPU core cluster with high-speed Infiniband connectivity for running demanding highly parallel calculations.  Several of the nodes have GPU co-processors.  SaM also has a team of Ph.D.-level consultants who assist researchers with improving performance of their codes and teach workshops on various aspects of scientific computing. Pittsburgh also hosts the Pittsburgh Supercomputing Center, an NSF-funded National Center.  PSC holds multiple workshops on various aspects of computing each year.  These have proven quite valuable to our students.&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Sep 2015 17:12:52 -0400</pubDate>
-        <link>http://yourdomain.com/fuck/blog/computational-resources/</link>
-        <guid isPermaLink="true">http://yourdomain.com/fuck/blog/computational-resources/</guid>
+        <link>https://www.pitt.edu//~tcp//blog/computational-resources/</link>
+        <guid isPermaLink="true">https://www.pitt.edu//~tcp//blog/computational-resources/</guid>
         
         
         <category>computational</category>
@@ -61,8 +61,8 @@
 &lt;p&gt;Joint TCC seminars are held in the Physical Chemistry division, in Chemical Engineering, the Pittsburgh Quantum Institute, and the Biophysics Theory Club. Lectures in Scientific Computing, Numerical Methods, Quantum Mechanics, Statistical Mechanics, Biophysics, Advanced Methods of Theoretical and Computational Chemistry, and many more, are offered to all theory &amp;amp; computation students across campus.&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Sep 2015 17:12:52 -0400</pubDate>
-        <link>http://yourdomain.com/fuck/blog/collaborative-environment/</link>
-        <guid isPermaLink="true">http://yourdomain.com/fuck/blog/collaborative-environment/</guid>
+        <link>https://www.pitt.edu//~tcp//blog/collaborative-environment/</link>
+        <guid isPermaLink="true">https://www.pitt.edu//~tcp//blog/collaborative-environment/</guid>
         
         
         <category>collaborative</category>
@@ -76,8 +76,8 @@
         <description>&lt;p&gt;2016 Midwest Theoretical Chemistry Conference to be Held at Pitt&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Sep 2015 17:12:52 -0400</pubDate>
-        <link>http://yourdomain.com/fuck/blog/2016-midwest-theoretical-chemistry-conference/</link>
-        <guid isPermaLink="true">http://yourdomain.com/fuck/blog/2016-midwest-theoretical-chemistry-conference/</guid>
+        <link>https://www.pitt.edu//~tcp//blog/2016-midwest-theoretical-chemistry-conference/</link>
+        <guid isPermaLink="true">https://www.pitt.edu//~tcp//blog/2016-midwest-theoretical-chemistry-conference/</guid>
         
         
         <category>event</category>

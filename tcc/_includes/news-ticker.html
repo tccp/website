@@ -1,13 +1,13 @@
-  <ul class="post-list news-ticker">
+<ul class="post-list news-ticker">
     <h2>News </h2>
     {% for newsitem in site.news %}
-      <li class='item'>
-      {% if newsitem.link %}
-        <a class="post-link" href="{{ newsitem.link }}">
-      {% else %}
-		<a class="post-link" href="/{{ newsitem.url | prepend: site.baseurl }}">
-      {% endif %}
+    <li class='item'>
+        {% if newsitem.external_link %}
+        <a class="post-link" href="{{newsitem.link}}">
+        {% else %}
+        <a class="post-link" href="{{site.prefix}}{{newsitem.link}}">
+        {% endif %}
         <span class="post-meta hidden">{{ newsitem.date | date: "%b %-d, %Y" }} - </span>  {{ newsitem.title }}</a>
-      </li>
+    </li>
     {% endfor %}
-  </ul>
+</ul>
