@@ -1,4 +1,4 @@
-ource 'https://rubygems.org'
+Source 'https://rubygems.org'
 gem 'github-pages'
 gem 'html-proofer'
 gem 'jekyll'
