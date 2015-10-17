@@ -8,7 +8,7 @@ var tcc = tcc || {
  */
 tcc.init = function(){
 	$( document ).ready(function() {
-		tcc.helpers.init_news_ticker();
+		
 	});
 }();
 

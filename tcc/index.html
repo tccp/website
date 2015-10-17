@@ -3,30 +3,45 @@ layout: default
 title: TCC | Home
 ---
 
-<div class="home container">
+<div class="home">
 
+	<!-- Group Images Gallery -->
   	<h2> Groups </h2>
   	<div class="row">
-
 	{% for group in site.groups %}
 		{% assign loopindex = forloop.index | modulo: 4 %}
 			{% if loopindex == 0 %}
-			<div class="row"></div>
+			<div class="row "></div>
 		{% endif %}
-		<a class="caption slide-panel" href="{{ group.link }}" data-title="{{ group.title }}" data-description="{{group.short_bio}}">
-			<img src="/~tcp/{{group.image}}" alt="{{group.title}}"/>
-		</a>
+		<!-- <a class="caption slide-panel" href="{{ group.link }}" data-title="{{ group.title }}" data-description="{{group.short_bio}}">
+			<img src="/{{group.image | prepend: site.baseurl }}" alt="{{group.title}}"/>
+		</a> -->
+
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <img src="/{{group.image | prepend: site.baseurl }}" alt="{{group.title}}"/>
+      <div class="caption">
+        <h3>{{group.title}}</h3>
+        <p><strong>Areas of Research: </strong>{{group.short_bio}}</p>
+        <p>
+        	<a href="{{ group.link }}" class="btn btn-primary" role="button">Visit Group</a> 
+        </p>
+      </div>
+    </div>
+  </div>
+
 	{% endfor %}
-
-
 	</div>
+	<!-- Group Images Gallery -->
 	
+
+	<!-- Display All of the sites posts -->
 	{% for post in site.posts %}
       <article>
-      	<h2><a href="/~tcp/{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+      	<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
       	{{ post.content }}
       </article>
     {% endfor %}
+    <!-- Display All of the sites posts -->
 
-	
 </div>
