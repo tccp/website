@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Midwest Theoretical Chemistry Conference"
+title:  "2016 Midwest Theoretical Chemistry Conference to Be Held at Pitt"
 date:   2015-09-28 21:12:52
 categories: collaborative chemistry
 link: mwtcc
