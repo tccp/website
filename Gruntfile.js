@@ -129,7 +129,10 @@ module.exports = function(grunt) {
     });
 
     require('load-grunt-tasks')(grunt);
+    
     grunt.registerTask('default', ['browserSync', 'watch']);
-    grunt.registerTask('prod', ['sass:dist', 'postcss:prod', 'concat', 'uglify', 'copy']);
+    // Lighter weight task for development
     grunt.registerTask('dev', ['sass:dist', 'postcss:dev', 'concat', 'uglify', 'copy']);
+    //Full build and minification
+    grunt.registerTask('build', ['sass:dist', 'postcss:prod', 'concat', 'uglify', 'copy']);
 };
