@@ -7,10 +7,13 @@
 
     {% include header.html %}
     {% include jumbotron.html %}
-    {% include news-ticker.html %}
+    
+
 
     
     <main class="page-content" id='main'>
+      {% include news-ticker.html %}
+      
       <div class="wrapper">
         {{ content }}
       </div>

@@ -1,14 +1,12 @@
-  <ul class="post-list owl-carousel news-ticker">
+  <ul class="post-list news-ticker">
+    <h2>News </h2>
     {% for newsitem in site.news %}
       <li class='item'>
       {% if newsitem.link %}
-        <a class="post-link" href="/~tcp/{{ newsitem.link }}">
+        <a class="post-link" href="{{ newsitem.link }}">
       {% else %}
-		<a class="post-link" href="/~tcp/{{ newsitem.url | prepend: site.baseurl }}">
+		<a class="post-link" href="/{{ newsitem.url | prepend: site.baseurl }}">
       {% endif %}
-
-
-
         <span class="post-meta hidden">{{ newsitem.date | date: "%b %-d, %Y" }} - </span>  {{ newsitem.title }}</a>
       </li>
     {% endfor %}

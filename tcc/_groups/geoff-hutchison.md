@@ -1,7 +1,7 @@
 ---
 layout: group
 title:  "Geoff Hutchison"
-image:   "/~tcp/images/hutchison.png"
+image:   "images/hutchison.png"
 categories: groups professor
 short_bio: "Electronic materials; cheminformatics"
 link: "http://hutchison.chem.pitt.edu/"
@@ -11,4 +11,4 @@ research-areas:
 - name: "ANother Reasearch Area"
   link: "http://google.com"	
 ---
-Inteior section for this group 
+Interior section for this group (This page doesn't exist currently.)
