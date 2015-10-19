@@ -6,15 +6,15 @@
 </description>
     <link>https://www.pitt.edu//~tcp//</link>
     <atom:link href="https://www.pitt.edu//~tcp//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Oct 2015 00:31:36 -0400</pubDate>
-    <lastBuildDate>Sat, 17 Oct 2015 00:31:36 -0400</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2015 16:01:05 -0400</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2015 16:01:05 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>The Pittsburgh Quantum Institute (PQI)</title>
-        <description>&lt;p&gt;The Pittsburgh Quantum Institute was established in 2012 to help unify and promote research in quantum science and engineering in the Pittsburgh area. PQI members have faculty appointments from Carnegie Mellon University, Duquesne University and the University of Pittsburgh in physics, chemistry and engineering disciplines.&lt;/p&gt;
+        <description>&lt;p&gt;The &lt;a href=&quot;http://www.pqi.org/&quot;&gt;Pittsburgh Quantum Institute (PQI)&lt;/a&gt; was established in 2012 to help unify and promote research in quantum science and engineering in the Pittsburgh area. PQI members have faculty appointments from Carnegie Mellon University, Duquesne University and the University of Pittsburgh in physics, chemistry and engineering disciplines.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 28 Sep 2015 17:12:52 -0400</pubDate>
+        <pubDate>Wed, 30 Sep 2015 16:00:00 -0400</pubDate>
         <link>https://www.pitt.edu//~tcp//blog/pittsburgh-quantum-institute-pqi/</link>
         <guid isPermaLink="true">https://www.pitt.edu//~tcp//blog/pittsburgh-quantum-institute-pqi/</guid>
         
@@ -31,7 +31,12 @@
     
       <item>
         <title>Computational Resources</title>
-        <description>&lt;p&gt;The University of Pittsburgh’s Center for Simulation and Modeling (SaM) houses an ~7500 CPU core cluster with high-speed Infiniband connectivity for running demanding highly parallel calculations.  Several of the nodes have GPU co-processors.  SaM also has a team of Ph.D.-level consultants who assist researchers with improving performance of their codes and teach workshops on various aspects of scientific computing. Pittsburgh also hosts the Pittsburgh Supercomputing Center, an NSF-funded National Center.  PSC holds multiple workshops on various aspects of computing each year.  These have proven quite valuable to our students.&lt;/p&gt;
+        <description>&lt;p&gt;The University of Pittsburgh’s &lt;a href=&quot;http://www.sam.pitt.edu/&quot;&gt;Center for Simulation and Modeling (SaM)&lt;/a&gt; houses an ~7500 CPU
+core cluster with high-speed Infiniband connectivity for running demanding highly parallel calculations.  Several of the
+nodes have GPU co-processors.  SaM also has a team of Ph.D.-level consultants who assist researchers with improving
+performance of their codes and teach workshops on various aspects of scientific computing. Pittsburgh also hosts the
+&lt;a href=&quot;http://www.psc.edu/&quot;&gt;Pittsburgh Supercomputing Center (PSC)&lt;/a&gt;, an NSF-funded National Center.  PSC holds multiple
+workshops on various aspects of computing each year.  These have proven quite valuable to our students.&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Sep 2015 17:12:52 -0400</pubDate>
         <link>https://www.pitt.edu//~tcp//blog/computational-resources/</link>
@@ -45,24 +50,24 @@
       </item>
     
       <item>
-        <title>Collaborative Environment</title>
-        <description>&lt;p&gt;The Chemical and Petroleum Engineering Department has five groups (Anna Balazs, John Keith, Yanni Mpourmpakis, Karl Johnson, and Chris Wilmer) engaged in computational chemistry research and the Department of Computational and Systems Biology in the Medical School also has groups (Ivet Bahar, Dan Zuckerman) part of whose research has a significant computational chemistry component.&lt;/p&gt;
+        <title>Groups at Other Departments</title>
+        <description>&lt;p&gt;The Chemical and Petroleum Engineering Department has five groups (&lt;a href=&quot;http://www.mirm.pitt.edu/people/bios/Balazs1.asp&quot;&gt;Anna
+Balazs&lt;/a&gt;, &lt;a href=&quot;http://klic.pitt.edu/&quot;&gt;John Keith&lt;/a&gt;, &lt;a href=&quot;http://www.mpourmpakis.com/home.html&quot;&gt;Yanni
+Mpourmpakis&lt;/a&gt;,
+&lt;a href=&quot;http://puccini.che.pitt.edu/&quot;&gt;Karl Johnson&lt;/a&gt;, and &lt;a href=&quot;http://www.wilmerlab.com/index.php&quot;&gt;Chris Wilmer&lt;/a&gt; engaged in computational chemistry research and the Department of Computational and
+Systems Biology in the Medical School also has groups (&lt;a href=&quot;http://www.ccbb.pitt.edu/Faculty/bahar/index.php&quot;&gt;Ivet Bahar&lt;/a&gt;,
+&lt;a href=&quot;http://www.csb.pitt.edu/Faculty/zuckerman/&quot;&gt;Dan Zuckerman&lt;/a&gt;) part of whose research has a significant computational chemistry component.&lt;/p&gt;
 
-&lt;p&gt;There are also several Theoretical &amp;amp; Computational Chemistry groups at Pittsburgh’s two other major universities – CMU and Duquesne University – as well as at the DOE National Energy Technology Laboratory (NETL) just outside the city.&lt;/p&gt;
+&lt;p&gt;There are also several Theoretical &amp;amp; Computational Chemistry groups at Pittsburgh’s two other major universities – CMU
+and Duquesne University – as well as at the &lt;a href=&quot;http://www.netl.doe.gov/&quot;&gt;DOE National Energy Technology Laboratory (NETL)&lt;/a&gt; just outside the city.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;David Wales, Cambridge University (2007)&lt;/li&gt;
-  &lt;li&gt;Kieron Burke, University of California, Irvine (2010)&lt;/li&gt;
-  &lt;li&gt;Gerhard Hummer, NIH (2010&lt;/li&gt;
-  &lt;li&gt;Fred Manby, University of Bristol (2013)&lt;/li&gt;
-  &lt;li&gt;Joost VandeVondele, University of Zurich (2015)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Joint TCC seminars are held in the Physical Chemistry division, in Chemical Engineering, the Pittsburgh Quantum Institute, and the Biophysics Theory Club. Lectures in Scientific Computing, Numerical Methods, Quantum Mechanics, Statistical Mechanics, Biophysics, Advanced Methods of Theoretical and Computational Chemistry, and many more, are offered to all theory &amp;amp; computation students across campus.&lt;/p&gt;
+&lt;p&gt;Joint TCC seminars are held in the &lt;a href=&quot;http://pre.chem.pitt.edu/people/physical-division&quot;&gt;Physical Chemistry division&lt;/a&gt;, in
+Chemical Engineering, the &lt;a href=&quot;http://pqi.org&quot;&gt;Pittsburgh Quantum Institute&lt;/a&gt;, and the &lt;a href=&quot;http://www.csb.pitt.edu/event/biophysical-theory-club-11/&quot;&gt;Biophysics Theory
+Club&lt;/a&gt;. Lectures in Scientific Computing, Numerical Methods, Quantum Mechanics, Statistical Mechanics, Biophysics, Advanced Methods of Theoretical and Computational Chemistry, and many more, are offered to all theory &amp;amp; computation students across campus.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 28 Sep 2015 17:12:52 -0400</pubDate>
-        <link>https://www.pitt.edu//~tcp//blog/collaborative-environment/</link>
-        <guid isPermaLink="true">https://www.pitt.edu//~tcp//blog/collaborative-environment/</guid>
+        <pubDate>Mon, 28 Sep 2015 16:00:00 -0400</pubDate>
+        <link>https://www.pitt.edu//~tcp//blog/other-groups/</link>
+        <guid isPermaLink="true">https://www.pitt.edu//~tcp//blog/other-groups/</guid>
         
         
         <category>collaborative</category>
@@ -72,15 +77,46 @@
       </item>
     
       <item>
-        <title>2016 Midwest Theoretical Chemistry Conference to be Held at Pitt</title>
-        <description>&lt;p&gt;2016 Midwest Theoretical Chemistry Conference to be Held at Pitt&lt;/p&gt;
+        <title>Collaborative Environment</title>
+        <description>&lt;p&gt;Pitt provides a stimulating environment for theory &amp;amp; computation researchers and students. There are strong interactions
+between the various groups, and having such a large TCC “supergroup” provides many benefits including having a very
+active visitors’ program.&lt;/p&gt;
+
+&lt;p&gt;The Theoretical &amp;amp; Computational Chemistry community at Pitt sponsors the Henry Frank Lecture series, which brings
+leading theoretical/computational chemists to Pittsburgh for three-five day stays to deliver lectures and to interact
+with students, postdocs, and faculty. Joint TCC seminars are held in the Physical Chemistry division, in Chemical
+Engineering, the Pittsburgh Quantum Institute, and the Biophysics Theory Club. Lectures in Scientific Computing,
+Numerical Methods, Quantum Mechanics, Statistical Mechanics, Biophysics, Advanced Methods of Theoretical and
+Computational Chemistry, and many more, are offered to all theory &amp;amp; computation students across campus.&lt;/p&gt;
+
+&lt;p&gt;To date, the speakers in these joint seminar series have been:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ali Alavi, University of Cambridge (2013)&lt;/li&gt;
+  &lt;li&gt;Roi Baer, Weizman Institute of Science (2014)&lt;/li&gt;
+  &lt;li&gt;Kieron Burke, University of California, Irvine (2010)&lt;/li&gt;
+  &lt;li&gt;Garnet Chan, Princeton University (2014)&lt;/li&gt;
+  &lt;li&gt;Claudia Filippi, University of Twente (2015)&lt;/li&gt;
+  &lt;li&gt;Leticia Gonzalez, University of Vienna (2015)&lt;/li&gt;
+  &lt;li&gt;Hannu Hakkinen, University of Jyvaskyla (2015)&lt;/li&gt;
+  &lt;li&gt;Gerhard Hummer, NIH (2010)&lt;/li&gt;
+  &lt;li&gt;Fred Manby, University of Bristol (2013)&lt;/li&gt;
+  &lt;li&gt;Thomas Miller, California Institute of Technology (2013)&lt;/li&gt;
+  &lt;li&gt;John Perdew, Temple University (2015)&lt;/li&gt;
+  &lt;li&gt;Mark Ratner, Northwestern University (2013)&lt;/li&gt;
+  &lt;li&gt;Joost VandeVondele, University of Zurich (2015)&lt;/li&gt;
+  &lt;li&gt;David Wales, Cambridge University (2007)&lt;/li&gt;
+  &lt;li&gt;Birgitta Whaley, University of California at Berkeley (2015)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Mon, 28 Sep 2015 17:12:52 -0400</pubDate>
-        <link>https://www.pitt.edu//~tcp//blog/2016-midwest-theoretical-chemistry-conference/</link>
-        <guid isPermaLink="true">https://www.pitt.edu//~tcp//blog/2016-midwest-theoretical-chemistry-conference/</guid>
+        <pubDate>Mon, 28 Sep 2015 16:00:00 -0400</pubDate>
+        <link>https://www.pitt.edu//~tcp//blog/collaborative-environment/</link>
+        <guid isPermaLink="true">https://www.pitt.edu//~tcp//blog/collaborative-environment/</guid>
         
         
-        <category>event</category>
+        <category>collaborative</category>
+        
+        <category>chemistry</category>
         
       </item>
     
