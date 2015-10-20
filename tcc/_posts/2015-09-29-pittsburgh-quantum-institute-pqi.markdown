@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Pittsburgh Quantum Institute (PQI)"
-date:   2015-09-30 20:00:00
+date:   2015-10-15 20:00:00
 categories: pittsburgh quantum institute pqi
 ---
 

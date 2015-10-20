@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Computational Resources"
-date:   2015-09-28 21:12:52
+date:   2015-10-18 21:12:52
 categories: computational resources
 ---
 The University of Pittsburgh's [Center for Simulation and Modeling (SaM)](http://www.sam.pitt.edu/) houses an ~7500 CPU
