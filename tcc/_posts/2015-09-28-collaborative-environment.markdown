@@ -10,10 +10,13 @@ active visitors' program.
 
 The Theoretical & Computational Chemistry community at Pitt sponsors the Henry Frank Lecture series, which brings
 leading theoretical/computational chemists to Pittsburgh for three-five day stays to deliver lectures and to interact
-with students, postdocs, and faculty. Joint TCC seminars are held in the Physical Chemistry division, in Chemical
-Engineering, the Pittsburgh Quantum Institute, and the Biophysics Theory Club. Lectures in Scientific Computing,
-Numerical Methods, Quantum Mechanics, Statistical Mechanics, Biophysics, Advanced Methods of Theoretical and
-Computational Chemistry, and many more, are offered to all theory & computation students across campus.
+with students, postdocs, and faculty. 
+Joint TCC seminars are held in the [Physical Chemistry division](http://pre.chem.pitt.edu/people/physical-division), in
+Chemical Engineering, the [Pittsburgh Quantum Institute](http://pqi.org), and the [Biophysics Theory
+Club](http://www.csb.pitt.edu/event/biophysical-theory-club-11/). There is a joint Joint CMU-Pitt Molecular Biophysics
+and Structural Biology seminar series and a joint CMU-Pitt Computational Biology seminar series. 
+Lectures in Scientific Computing, Numerical Methods, Quantum Mechanics, Statistical Mechanics, Biophysics, Advanced Methods of Theoretical and Computational Chemistry, and many more, are offered to all theory & computation students across campus.
+
 
 Leading theoretical chemists and physicists who have spoken in these seminar series include
 
