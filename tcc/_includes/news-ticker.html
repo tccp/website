@@ -4,8 +4,10 @@
     <li class='item'>
         {% if newsitem.external_link %}
         <a class="post-link" href="{{newsitem.link}}">
-        {% else %}
+        {% elsif newsitem.link %}
         <a class="post-link" href="{{site.prefix}}{{newsitem.link}}">
+        {% else %}
+        <a class="post-link" href="{{site.prefix}}{{newsitem.url | replace_first: '/', ''}}">
         {% endif %}
         <span class="post-meta hidden">{{ newsitem.date | date: "%b %-d, %Y" }} - </span>  {{ newsitem.title }}</a>
     </li>
