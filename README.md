@@ -1,6 +1,29 @@
 # TCC Website built with Jekyll
 [![Build Status](https://travis-ci.org/tccp/website.svg)](https://travis-ci.org/tccp/website)
 
+## Quick Reference 
+Deploy in `/`
+
+    sh deploy.sh
+Jekyll Build in `/tcc/`
+
+    jekyll build
+Jekyll Serve in `/tcc/` (`/tcc/_config.yml needs to be have prefix as dev)
+
+    jekyll serve 
+Grunt Production build
+    
+    grunt build
+Grunt Dev Watch
+
+    grunt watch
+
+## Deploy
+After you are satisfied with your site you can run an automated deploy process that will run `scp` and create a symbolic link to the new deploy. 
+Command ran in root of repo `/`
+
+    sh deploy.sh
+    
 ## Content Management 
 For content manage see the [Jekyll Documentation](http://jekyllrb.com/docs/home/)
 
@@ -65,9 +88,16 @@ The `tcc/_site` directory is the only directory that gets upload to the server o
 ### Requirements 
 * Ruby + Jekyll
 * Node and NPM
+* Bower
 * Grunt
 
 ### Install 
+1. `git clone git@github.com:tccp/website.git`
+2. `npm install`
+3. `bower install`
+4. `grunt watch`
+4. `cd tcc && jekyll build`
+
 To install the grunt modules run `npm install` (assuming node is installed on your local machine). See package.json to see what will be installed. Additionally vendors must be installed with bower package manager `bower install`. 
 
 ### Build & Watch
