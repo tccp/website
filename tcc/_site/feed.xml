@@ -4,10 +4,10 @@
     <title>Your awesome title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>https://www.pitt.edu//~tcp//</link>
-    <atom:link href="https://www.pitt.edu//~tcp//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Oct 2015 11:09:14 -0400</pubDate>
-    <lastBuildDate>Tue, 20 Oct 2015 11:09:14 -0400</lastBuildDate>
+    <link>https://www.pitt.edu///</link>
+    <atom:link href="https://www.pitt.edu///feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 20 Oct 2015 21:54:26 -0400</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2015 21:54:26 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -25,8 +25,8 @@ and &lt;a href=&quot;http://www.duq.edu/&quot;&gt;Duquesne University&lt;/a&gt; 
 
 </description>
         <pubDate>Mon, 19 Oct 2015 16:00:00 -0400</pubDate>
-        <link>https://www.pitt.edu//~tcp//blog/other-groups/</link>
-        <guid isPermaLink="true">https://www.pitt.edu//~tcp//blog/other-groups/</guid>
+        <link>https://www.pitt.edu///blog/other-groups/</link>
+        <guid isPermaLink="true">https://www.pitt.edu///blog/other-groups/</guid>
         
         
         <category>collaborative</category>
@@ -46,8 +46,8 @@ performance of their codes and teach workshops on various aspects of scientific 
 workshops on various aspects of computing each year. These have proven quite valuable to our students.&lt;/p&gt;
 </description>
         <pubDate>Sun, 18 Oct 2015 17:12:52 -0400</pubDate>
-        <link>https://www.pitt.edu//~tcp//blog/computational-resources/</link>
-        <guid isPermaLink="true">https://www.pitt.edu//~tcp//blog/computational-resources/</guid>
+        <link>https://www.pitt.edu///blog/computational-resources/</link>
+        <guid isPermaLink="true">https://www.pitt.edu///blog/computational-resources/</guid>
         
         
         <category>computational</category>
@@ -98,8 +98,8 @@ Lectures in Scientific Computing, Numerical Methods, Quantum Mechanics, Statisti
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 17 Oct 2015 16:00:00 -0400</pubDate>
-        <link>https://www.pitt.edu//~tcp//blog/collaborative-environment/</link>
-        <guid isPermaLink="true">https://www.pitt.edu//~tcp//blog/collaborative-environment/</guid>
+        <link>https://www.pitt.edu///blog/collaborative-environment/</link>
+        <guid isPermaLink="true">https://www.pitt.edu///blog/collaborative-environment/</guid>
         
         
         <category>collaborative</category>
@@ -113,8 +113,8 @@ Lectures in Scientific Computing, Numerical Methods, Quantum Mechanics, Statisti
         <description>&lt;p&gt;The &lt;a href=&quot;http://www.pqi.org/&quot;&gt;Pittsburgh Quantum Institute (PQI)&lt;/a&gt; was established in 2012 to help unify and promote research in quantum science and engineering in the Pittsburgh area. PQI members have faculty appointments from Carnegie Mellon University, Duquesne University and the University of Pittsburgh in physics, chemistry and engineering disciplines.&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 Oct 2015 16:00:00 -0400</pubDate>
-        <link>https://www.pitt.edu//~tcp//blog/pittsburgh-quantum-institute-pqi/</link>
-        <guid isPermaLink="true">https://www.pitt.edu//~tcp//blog/pittsburgh-quantum-institute-pqi/</guid>
+        <link>https://www.pitt.edu///blog/pittsburgh-quantum-institute-pqi/</link>
+        <guid isPermaLink="true">https://www.pitt.edu///blog/pittsburgh-quantum-institute-pqi/</guid>
         
         
         <category>pittsburgh</category>
@@ -136,8 +136,8 @@ students the opportunity to perform research in any of the computational member 
 interdisciplinary education in scientific computing and modeling.&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Oct 2015 16:00:00 -0400</pubDate>
-        <link>https://www.pitt.edu//~tcp//blog/graduate-studies/</link>
-        <guid isPermaLink="true">https://www.pitt.edu//~tcp//blog/graduate-studies/</guid>
+        <link>https://www.pitt.edu///blog/graduate-studies/</link>
+        <guid isPermaLink="true">https://www.pitt.edu///blog/graduate-studies/</guid>
         
         
         <category>pittsburgh</category>
