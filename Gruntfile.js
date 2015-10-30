@@ -44,7 +44,6 @@ module.exports = function(grunt) {
                 options: {
                     map: {
                         inline: false, // save all sourcemaps as separate files...
-                        annotation: 'assets/sass/maps' // ...to the specified directory
                     },
                     // safe: true,
                     processors: [
@@ -114,7 +113,9 @@ module.exports = function(grunt) {
                 },
                 options: {
                     watchTask: true,
-                    proxy: "http://127.0.0.1:4000/"
+                    server: {
+                        baseDir: "./tcc/_site/"
+                    }
                 }
             }
         },
