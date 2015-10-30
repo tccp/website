@@ -11,7 +11,7 @@ permalink: blog/:title/
 prefix: "/~tcp/" # Production Change this to "/~tcp/" for production
 # prefix: "/" #Development 
 paginate_path: "/blog/page:num/"
-paginate: 2
+paginate: 5
 
 # Build settings
 markdown: kramdown
