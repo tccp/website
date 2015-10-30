@@ -1,5 +1,6 @@
 main#main{
 	@extend .container;
+	
 	.wrapper{
 		@extend .col-sm-8, .col-sm-pull-4;
 	}

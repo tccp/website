@@ -3,6 +3,8 @@ layout: post
 title:  "Other Groups Engaged in Computational Chemistry on Campus"
 date:   2015-10-19 20:00:00
 categories: collaborative chemistry
+flags: 
+- home
 ---
 The Chemical and Petroleum Engineering Department has five groups ([Anna
 Balazs](http://www.mirm.pitt.edu/people/bios/Balazs1.asp), [John Keith](http://klic.pitt.edu/), [Yanni

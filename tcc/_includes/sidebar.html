@@ -1,0 +1,34 @@
+<aside class='sidebar'>
+    <nav class="news-ticker">
+        <ul>
+            <h2>{% include icons/icon-news.html %} News</h2>
+            {% for newsitem in site.news %}
+            <li class='item'>
+                {% if newsitem.external_link %}
+                <a class="post-link" href="{{newsitem.link}}">
+                {% elsif newsitem.link %}
+                <a class="post-link" href="{{site.prefix}}{{newsitem.link}}">
+                {% else %}
+                <a class="post-link" href="{{site.prefix}}{{newsitem.url | replace_first: '/', ''}}">
+                {% endif %}
+                    <span class="post-meta hidden">{{ newsitem.date | date: "%b %-d, %Y" }} - </span>  {{ newsitem.title }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </nav>
+    
+    <nav class="featured-posts">
+        <h2>{% include icons/icon-featured.html %} Featured</h2>
+        <ul>
+            {% for post in site.posts %}
+                {% for flag in post.flags %}
+                    {% if flag == "featured" %}
+                        <li><a href="#">{%if post.shorttitle %} {{post.shorttitle}} {% else %} {{post.title}} {% endif %}</a></li>
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        </ul>
+        <a href="#" class='pull-right'>View All</a>
+    </nav>
+</aside>

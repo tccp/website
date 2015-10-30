@@ -3,6 +3,8 @@ layout: post
 title:  "Collaborative Environment"
 date:   2015-10-17 20:00:00
 categories: collaborative chemistry
+flags: 
+- featured
 ---
 Pitt provides a stimulating environment for theory & computation researchers and students. There are strong interactions
 between the various groups, and having such a large TCC "supergroup" provides many benefits including having a very

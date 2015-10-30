@@ -25,12 +25,16 @@ title: TCC | Home
     </div>
     <!-- Group Images Gallery -->
 
-    <!-- Display All of the sites posts -->
+    <!-- Display posts with the home flag -->
     {% for post in site.posts %}
-    <article>
-        <h2><a href="{{site.prefix}}{{ post.url | replace_first: '/', ''  }}">{{ post.title }}</a></h2>
-        {{ post.content }}
-    </article>
+        {% for flag in post.flags %}
+            {% if flag == "home" %}
+                <article>
+                    <h2><a href="{{site.prefix}}{{ post.url | replace_first: '/', ''  }}">{{ post.title }}</a></h2>
+                    {{ post.content }}
+                </article>
+            {% endif %}
+        {% endfor %}
     {% endfor %}
-    <!-- Display All of the sites posts -->
+    <!-- Display posts with the home flag  -->
 </div>

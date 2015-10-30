@@ -1,8 +1,12 @@
 ---
 layout: post
 title:  "Graduate Programs in Theoretical and Computational Chemistry"
+shorttitle: "Graduate Programs"
 date:   2015-10-10 20:00:00
 categories: pittsburgh chemistry
+flags: 
+- home
+- nav
 ---
 
 Students interested in theoretical and/or computational chemistry can either directly apply to a faculty member's home

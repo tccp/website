@@ -1,5 +1,113 @@
-header{
-	.navbar{
+header {
+	$bgDefault: $brand-primary;
+	$bgHighlight: darken($brand-primary, 5%);
+	$colDefault: #fff;
+	$colHighlight: $pitt-gold;
+	$dropDown: true;
+
+	.navbar-default {
+		background-color: $bgDefault;
+		border-color: $bgHighlight;
+		border-style: none;
 		margin-bottom: 0;
+
+		.navbar-brand {
+			color: $colDefault;
+
+			&:hover, &:focus {
+				color: $colHighlight;
+			}
+		}
+		.navbar-text {
+			color: $colDefault;
+		}
+		.navbar-nav {
+			> li {
+				> a {
+					color: $colDefault;
+
+					&:hover, &:focus {
+						color: darken($colHighlight, 10%);
+						background-color: $brand-primary;
+					}
+
+					@media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+						padding: 10px 5px;
+					}
+				}
+				@if $dropDown {
+					> .dropdown-menu {
+						background-color: $bgDefault;
+
+						> li > a {
+							color: $colDefault;
+
+							&:hover, &:focus {
+								color: $colHighlight;
+								background-color: $bgHighlight;
+							}
+						}
+						.divider {
+							background-color: $bgHighlight;
+						}
+					}
+				}
+			}
+			> .active {
+				> a, > a:hover, > a:focus {
+					color: $colHighlight;
+					background-color: $bgHighlight;
+				}
+			}
+			> .open {
+				> a, > a:hover, > a:focus {
+					color: $colHighlight;
+					background-color: $bgHighlight;
+				}
+			}
+		}
+		.navbar-toggle {
+			border-color: $bgHighlight;
+			border-style: none;
+
+			&:hover, &:focus {
+				background-color: $bgHighlight;
+			}
+			.icon-bar {
+				background-color: $colDefault;
+			}
+		}
+		.navbar-collapse, .navbar-form {
+			border-color: $colDefault;
+			border-style: none;
+
+			input {
+				color: $brand-primary;
+			}
+		}
+		.navbar-link {
+			color: $colDefault;
+
+			&:hover {
+				color: $colHighlight;
+			}
+		}
+	}
+	@media (max-width:767px) {
+		.navbar-default .navbar-nav .open .dropdown-menu {
+			> li > a {
+				color: $colDefault;
+
+				&:hover, &:focus {
+					color: $colHighlight;
+				}
+			}
+			> .active {
+				> a, > a:hover, > a:focus {
+					color: $colHighlight;
+					background-color: $bgHighlight;
+				}
+			}
+		}
 	}
 }

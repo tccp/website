@@ -3,6 +3,8 @@ layout: post
 title:  "Computational Resources"
 date:   2015-10-18 21:12:52
 categories: computational resources
+flags: 
+- featured
 ---
 The University of Pittsburgh's [Center for Simulation and Modeling (SaM)](http://www.sam.pitt.edu/) houses an ~7,500 CPU
 core cluster with high-speed Infiniband connectivity for running demanding highly parallel calculations.  Several of the
