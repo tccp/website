@@ -3,15 +3,14 @@ footer {
 	color: white;
 	margin-top: 50px;
 	background-color: $brand-primary;
-	height: 6em;
 	padding-top: 2em;
 
 	a {
 		transition: transform $trans-cubic-fast;
 		color: white;
 
-		&:hover {
-			color: white;
+		&:hover, &:active {
+			color: $pitt-gold;
 		}
 	}
 }
