@@ -5,7 +5,7 @@ title: TCC | Home
 <div class="home">
     <!-- Group Images Gallery -->
     <h2> Groups </h2>
-    <div class="row">
+    <div class="groups-home">
         {% for group in site.groups %}
         {% assign loopindex = forloop.index | modulo: 4 %}
         {% if loopindex == 0 %}
@@ -17,9 +17,7 @@ title: TCC | Home
                 <div class="caption">
                     <h3>{{group.title}}</h3>
                     <p><strong>Areas of Research: </strong>{{group.short_bio}}</p>
-                    <p>
                     <a href="{{ group.link }}" class="btn btn-primary" role="button">Visit Group</a>
-                    </p>
                 </div>
             </div>
         </div>
