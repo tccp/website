@@ -32,11 +32,19 @@ Posts live in `tcc/_posts`. The Naming convention of the files must be kept: `YY
 
 All posts can be viewed by going to the `/blog/` directory. 
 
+####Flags
+Flags can now be added to posts. Add **home** to display this post on the home page, add **featured** to display it in the sidebar in the featured section, add **nav** to display it in the navigation bar. 
+
     ---
     layout: post
     title:  "Custom Post Name"
     date:  Date String (ex 2015-09-28 21:12:52)
     categories: spaced delimited categories  (ex collaborative chemistry)
+    categories: collaborative chemistry
+    flags: 
+    - home
+    - featured
+    - nav
     ---
     <Any Valid Markdown can go here>...
 
