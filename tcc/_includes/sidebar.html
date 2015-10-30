@@ -24,11 +24,11 @@
             {% for post in site.posts %}
                 {% for flag in post.flags %}
                     {% if flag == "featured" %}
-                        <li><a href="#">{%if post.shorttitle %} {{post.shorttitle}} {% else %} {{post.title}} {% endif %}</a></li>
+                        <li><a href="{{site.prefix}}{{ post.url | replace_first: '/', ''  }}">{%if post.shorttitle %} {{post.shorttitle}} {% else %} {{post.title}} {% endif %}</a></li>
                     {% endif %}
                 {% endfor %}
             {% endfor %}
         </ul>
-        <a href="#" class='pull-right'>View All</a>
+        <a href="{{site.prefix}}blog" class='pull-right'>View All</a>
     </nav>
 </aside>

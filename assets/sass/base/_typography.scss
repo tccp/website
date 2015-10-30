@@ -1,3 +1,7 @@
+h1, h2, h3, h4, h5, h6{
+	color: lighten($brand-primary, 5%);
+}
+
 h1{
 	@include responsive-auto('font-size', 36px);
 }
@@ -14,6 +18,14 @@ h4{
 	@include responsive-auto('font-size', 24px);
 }
 
+h5{
+
+}
+
+h6{
+
+}
+
 p{
 	// @include responsive-auto('font-size', 16px);
 }
@@ -23,6 +35,7 @@ a{
 	font-weight: bold; 
 	&:hover{
 		text-decoration: none;
+		color: lighten($brand-primary, 10%);
 	}
 }
 

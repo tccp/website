@@ -2,12 +2,12 @@
 layout: default
 title: My Blog
 ---
-
-
+  <h2>All Posts</h2>
+  
   <!-- Display Paginated of the sites posts -->
   {% for post in paginator.posts %}
   <article>
-      <h2><a href="{{site.prefix}}{{ post.url | replace_first: '/', ''  }}">{{ post.title }}</a></h2>
+      <h3><a href="{{site.prefix}}{{ post.url | replace_first: '/', ''  }}">{{ post.title }}</a></h3>
       {{ post.content }}
   </article>
   {% endfor %}
@@ -17,7 +17,7 @@ title: My Blog
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.prefix | replace: '//', '/' }}">&laquo; Prev</a>
   {% else %}
     <span>&laquo; Prev</span>
   {% endif %}
@@ -26,14 +26,14 @@ title: My Blog
     {% if page == paginator.page %}
       <em>{{ page }}</em>
     {% elsif page == 1 %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+      <a href="{{ paginator.previous_page_path | prepend: site.prefix | replace: '//', '/' }}">{{ page }} FUCK</a>
     {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+      <a href="{{ site.paginate_path | prepend: site.prefix | replace: '//', '/' | replace: ':num', page }}">{{ page }} FUCKER</a>
     {% endif %}
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.prefix | replace: '//', '/' }}">Next &raquo;</a>
   {% else %}
     <span>Next &raquo;</span>
   {% endif %}

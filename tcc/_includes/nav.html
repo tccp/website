@@ -29,11 +29,11 @@
                 {% for post in site.posts %}
                     {% for flag in post.flags %}
                         {% if flag == "nav" %}
-                            <li><a href="#">{%if post.shorttitle %} {{post.shorttitle}} {% else %} {{post.title}} {% endif %}</a></li>
+                            <li><a href="{{site.prefix}}{{ post.url | replace_first: '/', ''  }}">{%if post.shorttitle %} {{post.shorttitle}} {% else %} {{post.title}} {% endif %}</a></li>
                         {% endif %}
                     {% endfor %}
                 {% endfor %}
-                <li><a href="#">Posts</a></li>
+                <li><a href="{{site.prefix}}blog">Posts</a></li>
             </ul>
             <!-- Left Navigation -->
             </div> <!-- /.navbar-collapse -->
