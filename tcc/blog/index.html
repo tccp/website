@@ -26,9 +26,9 @@ title: My Blog
     {% if page == paginator.page %}
       <em>{{ page }}</em>
     {% elsif page == 1 %}
-      <a href="{{ paginator.previous_page_path | prepend: site.prefix | replace: '//', '/' }}">{{ page }} FUCK</a>
+      <a href="{{ paginator.previous_page_path | prepend: site.prefix | replace: '//', '/' }}">{{ page }}</a>
     {% else %}
-      <a href="{{ site.paginate_path | prepend: site.prefix | replace: '//', '/' | replace: ':num', page }}">{{ page }} FUCKER</a>
+      <a href="{{ site.paginate_path | prepend: site.prefix | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
     {% endif %}
   {% endfor %}
 
