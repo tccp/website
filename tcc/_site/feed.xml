@@ -6,9 +6,25 @@
 </description>
     <link>https://www.pitt.edu//~tcp//</link>
     <atom:link href="https://www.pitt.edu//~tcp//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Nov 2015 13:19:06 -0500</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2015 13:19:06 -0500</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2015 16:25:21 -0500</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2015 16:25:21 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Center for Simulation and Modeling (SaM)</title>
+        <description>&lt;p&gt;The University of Pittsburgh’s &lt;a href=&quot;http://www.sam.pitt.edu/&quot;&gt;Center for Simulation and Modeling (SaM)&lt;/a&gt; houses an ~7,500 CPU
+core cluster with high-speed Infiniband connectivity for running demanding highly parallel calculations.  Several of the
+nodes have GPU co-processors.  SaM also has a team of Ph.D.-level consultants who assist researchers with improving
+performance of their codes and teach workshops on various aspects of scientific computing.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Nov 2015 16:12:52 -0500</pubDate>
+        <link>https://www.pitt.edu//~tcp//blog/center-for-simulation-and-modeling/</link>
+        <guid isPermaLink="true">https://www.pitt.edu//~tcp//blog/center-for-simulation-and-modeling/</guid>
+        
+        
+        <category>sam</category>
+        
+      </item>
     
       <item>
         <title>Other Groups Engaged in Computational Chemistry on Campus</title>
@@ -37,10 +53,8 @@ and &lt;a href=&quot;http://www.duq.edu/&quot;&gt;Duquesne University&lt;/a&gt; 
     
       <item>
         <title>Computational Resources</title>
-        <description>&lt;p&gt;The University of Pittsburgh’s &lt;a href=&quot;http://www.sam.pitt.edu/&quot;&gt;Center for Simulation and Modeling (SaM)&lt;/a&gt; houses an ~7,500 CPU
-core cluster with high-speed Infiniband connectivity for running demanding highly parallel calculations.  Several of the
-nodes have GPU co-processors.  SaM also has a team of Ph.D.-level consultants who assist researchers with improving
-performance of their codes and teach workshops on various aspects of scientific computing. Pittsburgh also hosts the
+        <description>&lt;p&gt;On-campus resources are provided by the University of Pittsburgh’s &lt;a href=&quot;http://www.sam.pitt.edu/&quot;&gt;Center for Simulation and Modeling (SaM)&lt;/a&gt;.
+Pittsburgh also hosts the
 &lt;a href=&quot;http://www.psc.edu/&quot;&gt;Pittsburgh Supercomputing Center (PSC)&lt;/a&gt;, an NSF-funded National Center.
 PSC holds multiple workshops on various aspects of computing each year. These have proven quite valuable to our students.&lt;/p&gt;
 </description>

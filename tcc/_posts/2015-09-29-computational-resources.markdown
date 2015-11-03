@@ -6,9 +6,7 @@ categories: computational resources
 flags: 
 - featured
 ---
-The University of Pittsburgh's [Center for Simulation and Modeling (SaM)](http://www.sam.pitt.edu/) houses an ~7,500 CPU
-core cluster with high-speed Infiniband connectivity for running demanding highly parallel calculations.  Several of the
-nodes have GPU co-processors.  SaM also has a team of Ph.D.-level consultants who assist researchers with improving
-performance of their codes and teach workshops on various aspects of scientific computing. Pittsburgh also hosts the
+On-campus resources are provided by the University of Pittsburgh's [Center for Simulation and Modeling (SaM)](http://www.sam.pitt.edu/).
+Pittsburgh also hosts the
 [Pittsburgh Supercomputing Center (PSC)](http://www.psc.edu/), an NSF-funded National Center.
 PSC holds multiple workshops on various aspects of computing each year. These have proven quite valuable to our students.
