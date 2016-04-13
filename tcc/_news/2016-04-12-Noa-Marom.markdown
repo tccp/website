@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Prof. Noa Marom to Speak at Pitt-PPG Materials Symposium"
+date:   2015-04-12 23:59:59
+categories: collaborative chemistry
+---
+Prof. Noa Marom will give a presentation as Invited Speaker at the Pitt-PPG Materials Symposium hosted at the Pitt
+Chevron Science Center on Friday, May 6th 2016 at 10:50-11:35 AM.

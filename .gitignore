@@ -13,3 +13,6 @@
 ######################
 Vagrantfile
 /.vagrant
+
+# build
+_site

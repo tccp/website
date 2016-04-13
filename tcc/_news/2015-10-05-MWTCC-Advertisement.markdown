@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "2016 Midwest Theoretical Chemistry Conference to Be Held at Pitt"
-date:   2999-12-31 23:59:59
+date:   2015-04-12 23:59:59
 categories: collaborative chemistry
-link: "http://www.mwtcc.chem.pitt.edu/"
-external_link: true
+link: "mwtcc"
+external_link: false
 ---
 The Chemical and Petroleum Engineering Department has five groups (Anna Balazs, John Keith, Yanni Mpourmpakis, Karl Johnson, and Chris Wilmer) engaged in computational chemistry research and the Department of Computational and Systems Biology in the Medical School also has groups (Ivet Bahar, Dan Zuckerman) part of whose research has a significant computational chemistry component.
 
