@@ -1,0 +1,109 @@
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="../common/style.css">
+  <title>48th Midwest Theoretical Chemistry Conference at the University of Pittsburgh</title>
+</head>
+
+<body>
+  <div class="header">
+    <div class="text">
+      <table width="100%">
+        <tr>
+          <td align="left" valign="middle" width="250px">
+            <div class="titleGraphic">
+              <a class="nav" href="../index.html">
+                <img src="../common/title.jpg" height="100px">
+              </a>
+            </div>
+          </td>
+          <td align="right">
+            <div class="pittSeal">
+              <a class="nav" href="http://www.pitt.edu"> <img src="../common/pitt_seal.gif" height="115px"></A>
+<!--              <a class="nav" href="http://www.pitt.edu"> <img src="http://www.pitt.edu/~tcp/common/pitt_seal.gif" height="115px"></A>-->
+            </div>
+          </td>
+        </tr>
+      </table>
+      <div class="menu">
+        <a class="nav" href="../program/program.html">Program</a> &nbsp;&nbsp;
+        <a class="nav" href="../registration/registration.html">Registration</a> &nbsp;&nbsp;
+        <a class="nav" href="../abstracts/abstracts.html">Abstracts</a> &nbsp;&nbsp;
+        <a class="nav" href="../directions/directions.html">Directions</a> &nbsp;&nbsp;
+        <a class="nav" href="../contact/contact.html">Contact us</a> &nbsp;&nbsp;
+        <a class="nav" href="../history/history.html">History</a> &nbsp;&nbsp;
+      </div>
+      <div class="content">
+
+
+      <table width=100% align=left valign=top>
+        <tr>
+          <td>
+      <h1>Tentative Schedule</h1>
+      <p> The 2016 Midwest Theoretical Chemistry Conference will open for Check-In and On-Site Registration at 5 PM on
+      Thursday June 9. A Welcome Reception and Poster Session will be held 6-8:30 PM. <br>
+      All events on <b> Thursday, June
+      9</b> will be held in the <b>Chevron
+      Science Center</b> (219 Parkman Avenue, Pittsburgh, PA 15260). </p>
+
+      <p> The conference will continue with one full day of presentations (Friday, June 10) and one half-day (Saturday, June 11).
+      The meeting is expected to end by 12:30 PM on Saturday June 11. <br>All events on <b> Friday and Saturday June 10
+      &amp; 11</b> will be held at the <b>University Club</b> (123 University Pl, Pittsburgh, PA 15260).</p>
+      <br>
+      <br>
+      <br>
+      <p></p>
+      <p></p>
+      
+          </td>
+          <td> &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;      </td>
+          <td>
+<iframe
+src="https://www.google.com/maps/d/u/0/embed?mid=zcqPUhIKhdnw.kdgW3Kpwyo-0"
+width="300" height="300" frameborder="1" style="border:0" allowfullscreen></iframe>
+          </td>
+      </frameset>
+      </table>
+
+      <h1>List of Invited Speakers and (Tentative) Invited Talk Titles</h1>
+        <table width=100% align=left valign=top>
+          <tr>
+            <td><b>Jochen Autschbach</b><br> <i>SUNY Buffalo</i><br><br></td>
+            <td valign=top>Calculating magnetic resonance parameters across the periodic table</td>
+          </tr>
+          <tr>
+            <td><b>Tom Beck</b><br><i>University of</i><br><i>Cincinnatti</i><br><br></td>
+            <td valign=top>Modeling ion binding in the bacterial chloride membrane transporter and implications for the
+            proton/chloride exchange cycle</td>
+          </tr>
+          <tr>
+            <td><b>Maria Bryant </b><br><b>(Szczesniak)</b><br><i>Oakland University</i><br><br></td>
+            <td valign=top>New advances Density Functional Theory for intermolecular interactions</td>
+          </tr>
+          <tr>
+            <td><b>Ken Dill</b> (*keynote)<br><i>Stony Brook</i><br><i> University</i><br><br></td>
+            <td valign=top>New approaches to computational searching and sampling in protein folding.</td>
+          </tr>
+          <tr>
+            <td><b>Ben Levine</b><br><i>Michigan State</i><br><i> University</i><br><br></td>
+            <td valign=top>Conical Intersections and Non-Radiative Recombination in Semiconductor Nanocrystals</td>
+          </tr>
+          <tr>
+            <td><b>Krishnan Raghavachari</b><br><i>Indiana University</i><br><i>Bloomington</i><br><br></td>
+            <td valign=top>Fragment-Based Methods for Calculating Accurate Energies and Spectroscopic Properties of Large Molecules</td>
+          </tr>
+          <tr>
+            <td><b>William Schneider</b><br><i>University of</i><br><i>Notre Dame</i><br><br></td>
+            <td valign=top>Operando Computations for Discovery in Heterogeneous Catalysis</td>
+          </tr>
+          <tr>
+            <td><b>Lyudmila Slipchenko</b><br><i>Purdue University</i></td>
+            <td valign=top>Polarizable QM/MM: yes, no, maybe?</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+
+</body>
+
+</html>
+
